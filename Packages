@@ -8,4 +8,4 @@ Author: Zhaosong
 Description: sss deb package from Zhaosong repo
 Homepage: https://github.com/zhaosongcai/myfiles
 Priority: optional
-Filename: ./debs/sss.deb
+Filename: debs/sss.deb
